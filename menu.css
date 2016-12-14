@@ -1,0 +1,4 @@
+#opcao-bolos:checked ~ #menu-bebidas,
+#opcao-bebidas:checked ~ #menu-boles {
+  display: none;
+}
